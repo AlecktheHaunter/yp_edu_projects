@@ -27,11 +27,19 @@
 ## Библиотеки
 
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import numpy as np
+
 import math
+
 import seaborn as sns
+
 import scipy.stats as st
+
 import warnings
+
 import os
+
 from statistics import median

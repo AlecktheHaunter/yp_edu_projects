@@ -1,4 +1,4 @@
-# Игра "Космические братья". Анализ рекламных источников
+# Анализ рекламных источников онлайн игры
 
 Ссылка на презентацию: https://docs.google.com/presentation/d/1DLPsrkiOtK5LgfbUmmniBA3z6dO8SJ9sxX0EHmkBYfE/edit?usp=sharing
 
